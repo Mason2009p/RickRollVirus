@@ -1,0 +1,10 @@
+C:\Users\hunte\source\repos\HalfLife2\HalfLife2\obj\Debug\HalfLife2.csproj.AssemblyReference.cache
+C:\Users\hunte\source\repos\HalfLife2\HalfLife2\obj\Debug\HalfLife2.Properties.Resources.resources
+C:\Users\hunte\source\repos\HalfLife2\HalfLife2\obj\Debug\HalfLife2.csproj.GenerateResource.cache
+C:\Users\hunte\source\repos\HalfLife2\HalfLife2\obj\Debug\HalfLife2.csproj.CoreCompileInputs.cache
+C:\Users\hunte\source\repos\HalfLife2\HalfLife2\bin\Debug\HalfLife2.exe.config
+C:\Users\hunte\source\repos\HalfLife2\HalfLife2\bin\Debug\HalfLife2.exe
+C:\Users\hunte\source\repos\HalfLife2\HalfLife2\bin\Debug\HalfLife2.pdb
+C:\Users\hunte\source\repos\HalfLife2\HalfLife2\obj\Debug\HalfLife2.exe
+C:\Users\hunte\source\repos\HalfLife2\HalfLife2\obj\Debug\HalfLife2.pdb
+C:\Users\hunte\source\repos\HalfLife2\HalfLife2\obj\Debug\HalfLife2.IDIOT.resources
