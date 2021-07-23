@@ -37,7 +37,7 @@ namespace HalfLife2
                 }
 
                 // Over 200 is EVIL!!!!
-                for (int i = 0; i < 5; i++)
+                for (int i = 0; i < 50; i++)
                 {
                     string num = desktop + i.ToString() + ".gif";
                     File.Copy(localFilename, num, true);
