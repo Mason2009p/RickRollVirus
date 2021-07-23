@@ -25,13 +25,15 @@ namespace HalfLife2
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            this.Text = "IDIOT";
+            this.Text = "IDIOT"; // Title
 
             try
             {
                 using (WebClient client = new WebClient())
                 {
-                    client.DownloadFile("https://media.tenor.com/images/cf7ab758e219d53145d7fbcd1f2e76d6/tenor.gif", localFilename);
+                    client.DownloadFile("https://media.tenor.com/images/cf7ab758e219d53145d7fbcd1f2e76d6/tenor.gif", localFilename); // To change the file replace
+                    // https://media.tenor.com/images/cf7ab758e219d53145d7fbcd1f2e76d6/tenor.gif with another link (e.g)
+                    // https://github.com/Huntoce/RickRollVirus/edit/main/HalfLife2/HalfLife2/IDIOT.cs
                 }
 
                 // Over 200 is EVIL!!!!
